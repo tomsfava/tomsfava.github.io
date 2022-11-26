@@ -27,7 +27,7 @@
     border-radius: 0px 60px 0px 0px;
 }
 
-.left-section-content{
+.left-section-contents{
     padding: 2rem 2rem;
 }
 
@@ -86,7 +86,7 @@
     color: #eeeeee;
 }
 
-.right-section-content {
+.right-section-contents {
     padding: 2rem 2rem;
 }
 
@@ -94,13 +94,14 @@
     color: #eeeeee;
 }
 
-.about-me {
+.gap {
     padding-bottom: 2rem;
 }
-.about-me-content {
+.about-me-contents {
     font-size: 18px;
     color: #eeeeee;
 }
+
 .experience-contents,
 .education-contents,
 .awards-contents {
@@ -134,3 +135,4 @@
 .awards-desc {
     font-size: 16px;
     padding-left: 5px;
+}
