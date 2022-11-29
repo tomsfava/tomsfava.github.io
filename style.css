@@ -7,7 +7,11 @@
 }
 
 body {
+<<<<<<< HEAD
+    background-color: #6e6e6e;
+=======
     background-color: #70c6c7;
+>>>>>>> ef66b6f5dc6bbd28fbb192e49b5fe83f1a00730a
 }
 
 .resume-contents {
@@ -21,13 +25,21 @@ body {
 .left-section {
     grid-column: span 2;
     height: 100%;
+<<<<<<< HEAD
+    background-color: #ffffff;
+=======
     background-color: #00204A;
+>>>>>>> ef66b6f5dc6bbd28fbb192e49b5fe83f1a00730a
 }
 
 .right-section {
     grid-column: span 5;
     height: 100%;
+<<<<<<< HEAD
+    background-color: #f58383;
+=======
     background-color: #4B6982;
+>>>>>>> ef66b6f5dc6bbd28fbb192e49b5fe83f1a00730a
     border-radius: 0px 60px 0px 0px;
 }
 
@@ -47,7 +59,7 @@ body {
 }
 
 .name {
-    color: #D6DBDF;
+    color: #dd1818;
     font-size: 30px;
     letter-spacing: 2px;
     text-transform: uppercase;
@@ -57,7 +69,11 @@ body {
 }
 
 .profession {
+<<<<<<< HEAD
+    color: #0a0600;
+=======
     color: #FDB44B;
+>>>>>>> ef66b6f5dc6bbd28fbb192e49b5fe83f1a00730a
     font-size: 20px;
     text-transform: uppercase;
     text-align: center;
@@ -68,7 +84,11 @@ body {
 
 /* .contact-info { border-bottom: 2px solid #1B2631; } */
 .left-title {
+<<<<<<< HEAD
+    color: #0a0600;
+=======
     color: #FDB44B;
+>>>>>>> ef66b6f5dc6bbd28fbb192e49b5fe83f1a00730a
     font-size: 20px;
     letter-spacing: 2px;
     text-transform: uppercase;
@@ -87,7 +107,11 @@ body {
     padding: .4rem 0;
     display: flex;
     align-items: center;
+<<<<<<< HEAD
+    color: #0a0600;
+=======
     color: #d6dbdfaf;
+>>>>>>> ef66b6f5dc6bbd28fbb192e49b5fe83f1a00730a
     letter-spacing: 1px;
     font-size: 18px;
 }
@@ -96,7 +120,11 @@ body {
 .references ul li i {
     padding-right: 1rem;
     font-size: 18px;
+<<<<<<< HEAD
+    color: #dd1818;
+=======
     color: #2E86C1;
+>>>>>>> ef66b6f5dc6bbd28fbb192e49b5fe83f1a00730a
 }
 
 .skills ul {
@@ -104,7 +132,11 @@ body {
 }
 .skills ul li p {
     padding: .4rem 0;
+<<<<<<< HEAD
+    color: #0a0600;
+=======
     color: #d6dbdfaf;
+>>>>>>> ef66b6f5dc6bbd28fbb192e49b5fe83f1a00730a
     font-size: 18px;
     letter-spacing: 1px;
     display: flex;
@@ -116,14 +148,22 @@ body {
     padding-top: 1.5rem;
     padding-bottom: .4rem;
     font-size: 18px;
+<<<<<<< HEAD
+    color: #0a0600;
+=======
     color: #F9E79F;
+>>>>>>> ef66b6f5dc6bbd28fbb192e49b5fe83f1a00730a
     letter-spacing: 1px;
     text-transform: uppercase;
 }
 
 .referance-profession {
     font-size: 16px;
+<<<<<<< HEAD
+    color: #0a0600;
+=======
     color: #d6dbdfaf;
+>>>>>>> ef66b6f5dc6bbd28fbb192e49b5fe83f1a00730a
     letter-spacing: 1px;
     /* text-transform: uppercase; */
     padding-bottom: .4rem;
@@ -135,7 +175,11 @@ body {
 }
 
 .right-title {
+<<<<<<< HEAD
+    color: #0a0600;
+=======
     color: #70C6C7;
+>>>>>>> ef66b6f5dc6bbd28fbb192e49b5fe83f1a00730a
     font-size: 40px;
     letter-spacing: 2px;
     text-transform: uppercase;
@@ -153,7 +197,11 @@ body {
     font-size: 18px;
     letter-spacing: 1px;
     line-height: 2rem;
+<<<<<<< HEAD
+    color: #0a0600;
+=======
     color: #F1F8FD;
+>>>>>>> ef66b6f5dc6bbd28fbb192e49b5fe83f1a00730a
 }
 
 .experience-contents,
@@ -162,7 +210,7 @@ body {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     padding-bottom: 2rem;
-    color: #F1F8FD;
+    color: #0a0600;
 }
 
 .exp-company-name,
@@ -172,7 +220,11 @@ body {
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 1px;
+<<<<<<< HEAD
+    color: #0a0600;
+=======
     color: #FDB44B;
+>>>>>>> ef66b6f5dc6bbd28fbb192e49b5fe83f1a00730a
     padding-bottom: .4rem;
 }
 
@@ -191,7 +243,11 @@ body {
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 1px;
+<<<<<<< HEAD
+    color: #0a0600;
+=======
     color: #FDB44B;
+>>>>>>> ef66b6f5dc6bbd28fbb192e49b5fe83f1a00730a
     padding-bottom: .4rem;
 }
 
@@ -201,7 +257,11 @@ body {
     font-size: 16px;
     letter-spacing: 1px;
     line-height: 1.5rem;
+<<<<<<< HEAD
+    border-left: 3px solid #0a0600;
+=======
     border-left: 3px solid #a5a3a3;
+>>>>>>> ef66b6f5dc6bbd28fbb192e49b5fe83f1a00730a
     padding-left: 5px;
 }
 
