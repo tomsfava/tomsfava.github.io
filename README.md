@@ -1,2 +1,2 @@
-# devweekgit.github.io
+# tomsfava.github.io
 Currículo do Jornada Dev
